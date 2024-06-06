@@ -1,6 +1,3 @@
-The e621 model is uploaded at https://discord.gg/BDFpq9Yb7K ("The Gooey Pack")
-This is terrible for preservation and accessibility, but github has a filesize limit, so you need to download it separately.
-You can find the model in the "other-models" forum, in the "[WIP] E621 Convnext Image tagger." post.
+The e621 model is uploaded at a discord server called "The Gooey Pack", but the server has since been removed.
+A new download for it can be found here: https://huggingface.co/toynya/Z3D-E621-Convnext/tree/main
 Put the model.onnx and tags_selected.csv files next to this text file.
-
-It's also a goo and latex fetish server, so if you're into that then go to town.
